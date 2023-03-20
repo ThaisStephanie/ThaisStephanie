@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ThaisStephanie
 - 👀 I’m interested in learning more about DB and others 
 programming languages
-- 🌱 I’m currently learning the C# Language 
+- 🌱Knowledges : 
+SQL language
+MySql
+Python
 - 💞️ I’m looking to improve my knowledges and became a DB administrator... for now ;)
 
 <!---
