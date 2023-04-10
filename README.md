@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @ThaisStephanie
 - 👀 I’m interested in learning more about DB and others 
-programming languages
+programming languages; 
 - 🌱Knowledges : 
 SQL language
 MySql
+SQL lite
 Python
-- 💞️ I’m looking to improve my knowledges and became a DB administrator... for now ;)
+- 💞️ I’m currently studying to became a DBA... for now ;)
 
 <!---
 ThaisStephanie/ThaisStephanie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
