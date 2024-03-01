@@ -3,9 +3,10 @@
 programming languages; 
 - 🌱Knowledges : 
 SQL language
-MySql
-SQL lite
+Excel
+Power BI
 Python
+Bibliotecas: Pandas; Pypdf2
 - 💞️ I’m currently studying to became a DBA... for now ;)
 
 <!---
